@@ -9,7 +9,7 @@ in order to identify active hosts and open ports using standard networking tools
 
  
 
-![Active Host Discovery](images/hostdiscovery.png)
+![Active Host Discovery](images/Hostdiscovery.png)
 
 ## Port Scan
 A basic port scan was conducted on a selected host to identify open ports and running services.
