@@ -19,7 +19,7 @@ for learning networking fundamentals and practicing configuration.
 - Basic hands-on experience with Cisco Packet Tracer
 
 ## local area Network
-![LAN Topology]( local area Network.png)
+![LAN Topology]( local_area_Network.png)
 
 ## Tools Used
 - Cisco Packet Tracer
