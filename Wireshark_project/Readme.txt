@@ -7,7 +7,7 @@
 
 
 ## DNS Query Packet
-![DNS Query](images/DNS_example.png)
+![DNS Query](imagesDNS_example.png)
 Description: DNS query resolving wikipedia.org to an IP address.
 
 
