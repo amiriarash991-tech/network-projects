@@ -15,7 +15,7 @@ Description: DNS query resolving wikipedia.org to an IP address.
 
 
 ## HTTP Request Packet
-![HTTP Request](images/_request.png)
+![HTTP Request](images/request.png)
 Description: HTTP GET request sent by client to access example.com.
 
 
