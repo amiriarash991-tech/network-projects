@@ -30,13 +30,7 @@
 
 4\. دوباره اتصال شبکه را تست کن (`ping` به Gateway یا سرور)
 
-
-![IP Conflict Test](docs/ipconfig...png)
-
 ![IP Conflict Test](docs/ip_config.png)
-
-![IP Conflict Test](docs/release.png)
-
-![IP Conflict Test](docs/renew.png)
-
+![IP Conflict Test](docs/ip_release.png)
+![IP Conflict Test](docs/ip_renew.png)
 
