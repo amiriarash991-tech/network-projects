@@ -18,7 +18,5 @@
 ### وضعیت IP سیستم
 ![IP Config](../docs/ip_config.png)
 
-![IP Config](../docs/ip_config.png)
-
 ### Ping به Gateway
 ![Ping Test](../docs/ping_test.png)
