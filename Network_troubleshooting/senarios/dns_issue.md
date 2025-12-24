@@ -27,7 +27,7 @@
 4\. اجرای دوباره `ping google.com` برای تست اتصال
 
 
-![DNS Test](docs/dns_issue.png)
+![DNS Test](docs/nalookup.png)
 
 
 
