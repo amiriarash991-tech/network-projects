@@ -12,6 +12,6 @@
 2. اجرای `nslookup google.com` برای بررسی رزولوشن DNS
 3. تغییر DNS به یک DNS معتبر (مثلاً 8.8.8.8) در صورت نیاز
 4. اجرای دوباره `ping google.com` برای تست اتصال
-
+![IP Config](../docs/ip_config.png)
 ## تصویر خروجی
 ![DNS Test](../docs/nslookup.png)
